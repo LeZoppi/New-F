@@ -1,9 +1,9 @@
 addEventListener("load", load);
 //llamo al servidor
-var servidor = "https://backendTienda.herokuapp.com/peliculas";
-var serviDelete = "https://backendTienda.herokuapp.com/eliminarpelicula";
-var serviFormMod = "https://backendTienda.herokuapp.com/FormModPelicula";
-var serviModJuego = "https://backendTienda.herokuapp.com/modificarpelicula";
+var servidor = "https://tiendabackzoppi.herokuapp.com/juegos";
+var serviDelete = "https://tiendabackzoppi.herokuapp.com/eliminarjuego";
+var serviFormMod = "https://tiendabackzoppi.herokuapp.com/FormModJuego";
+var serviModJuego = "https://tiendabackzoppi.herokuapp.com/modificarjuego";
 
 function $(demo){
     return document.getElementById(demo);

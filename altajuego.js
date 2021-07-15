@@ -1,6 +1,6 @@
 addEventListener("load", load);
 
-var servidor = "https://backendTienda.herokuapp.com/altajuego";
+var servidor = "https://tiendabackzoppi.herokuapp.com/altajuego";
 
 
 function $(demo){

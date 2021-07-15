@@ -1,6 +1,6 @@
 addEventListener("load", load);
 
-var servi = "https://backenTienda.herokuapp.com/";
+var servi = "https://tiendabackzoppi.herokuapp.com/";
 
 
 function $(demo){
